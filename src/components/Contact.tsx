@@ -8,7 +8,7 @@ const Contact = () => {
         <div className='space-y-8'>
             <h2 className='text-5xl'  data-aos="zoom-in-up">Get in touch</h2>
             <p className='text-gray-600 text-[18px] pt-2'  data-aos="zoom-in-up">
-            I’m always excited to collaborate on interesting projects or hear new ideas. Whether you have a question or just want to say hello, feel free to reach out! 
+            I am always excited to collaborate on interesting projects or hear new ideas. Whether you have a question or just want to say hello, feel free to reach out! 
             I aim to respond within 24 hours.
             </p>
             <div className='flex gap-3 items-center'  data-aos="zoom-in-up">
